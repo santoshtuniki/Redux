@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.btn-wrapper button {
+  background-color: #73cff3;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: #fff;
+  box-shadow: #333 opx 1px 5px;
+}
+
+.img-wrapper img {
+  width: 100px;
+  height: 100%;
+}
+
+.cart-wrapper {
+  height: 150px;
+  width: 500px;
+  border: 1px solid #ccc;
+  margin-left: 10%;
+}
+
+.item {
+  float: left;
+  width: 120px;
+  padding: 20px;
+  height: 110px;
+}
+
+.add-to-cart img {
+  width: 50px;
+  margin-top: 20px;
+  position: absolute;
+  right: 2%;
+  top: 1%;
+}
